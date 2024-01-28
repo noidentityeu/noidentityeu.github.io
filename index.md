@@ -42,3 +42,23 @@ If you use WiFi in public places, ensure that you follow best practices to avoid
 
  - [Public places (TODO)](/public.html)
 
+### Personal data
+
+You must be careful sharing your personal data in the Internet.
+
+ - [Personal data (TODO)](/personal.html)
+
+Beware of state institutions. They often post your personal data or personal data of your relatives.
+
+ - [Personal data in state registers (TODO)](/personal_state.html)
+
+### Fake news, fake profiles and all that stuff
+
+Fake profiles in social networks, fake news, whatever. What can you do to ensure that the person you talk to is real?
+
+ - [Validating facts (TODO)](/validate_facts.html)
+
+There are some realistic limits of what can be faked with sufficient desire.
+
+ - [Limits of faking (TODO)](/fake_limits.html)
+
