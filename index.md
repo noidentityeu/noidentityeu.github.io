@@ -12,11 +12,11 @@ In this project, we aim at informing people rather than confusing them with too 
 
 To get rid of websites tracking you, first of all, you have to make sure your IP address is not trackable or rather *can not be associated* to you.
 
- - [IP addresses (theory)](/ip.html)
+ - [IP addresses](/ip.html)
 
 That might employ the use of Virtual Private Networks (VPN):
 
- - [VPN (TODO)](/vpn.html)
+ - [VPN](/vpn.html)
 
 Second, even if you use VPN, it is possible (but unlikely) that your Domain Name resolution subsystem (DNS) is not configured properly and is leaking the websites you visit to the original DNS server of your Internet Service Provider (ISP). Even if not, beware of DNS.
 
