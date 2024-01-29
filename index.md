@@ -20,7 +20,7 @@ That might employ the use of Virtual Private Networks (VPN):
 
 Second, even if you use VPN, it is possible (but unlikely) that your Domain Name resolution subsystem (DNS) is not configured properly and is leaking the websites you visit to the original DNS server of your Internet Service Provider (ISP). Even if not, beware of DNS.
 
- - [DNS (TODO)](/dns.html)
+ - [DNS](/dns.html)
 
 Third, perform trivial checks before you start using VPN for needed purpose to ensure that VPN configuration is correct.
 
