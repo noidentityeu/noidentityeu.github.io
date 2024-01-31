@@ -28,7 +28,7 @@ Third, perform trivial checks before you start using VPN for needed purpose to e
 
 It is possible for website owners to associate your device with you by looking up your User-Agent field set by the web browser. Sometimes, it might be pretty unique. Beware of that and take actions.
 
- - [User Agents (TODO)](/user_agents.html)
+ - [User Agents](/user_agents.html)
 
 Be sure to use websites using HTTPS only. Always check that certificates are valid - these red flags or scaring warning in your browser are important and might indicate Man-in-the-middle attack.
 
