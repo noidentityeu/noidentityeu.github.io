@@ -32,7 +32,7 @@ It is possible for website owners to associate your device with you by looking u
 
 Be sure to use websites using HTTPS only. Always check that certificates are valid - these red flags or scaring warning in your browser are important and might indicate Man-in-the-middle attack.
 
- - [HTTPS (TODO)](/https.html)
+ - [HTTPS](/https.html)
 
 WiFi-routers are used a lot nowadays, so they are normal targets for hackers. What can you do to ensure they are not hacked?
 
