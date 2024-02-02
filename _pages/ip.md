@@ -4,7 +4,13 @@ title: IP addresses
 permalink: /ip
 ---
 
+<img src="/images/ip_whatisit.png" alt="drawing" width="600"/>
+<center>IPs on a laptop</center>
+
 An **Internet Protocol (IP) address** is an identifier assigned to a network interface. It *can be* unique, but usually it *is not*.
+
+<img src="/images/ip_v4_v6.png" alt="drawing" width="600"/>
+<center>IPv4 vs IPv6</center>
 
 There are two widespread versions of IP addresses: IPv4 and IPv6. The main difference of IPv6 compared to IPv4 is an increased length: the longer the better. While IPv6 has this and other benefits, it is not as widespread as IPv4. We'll review IPv4 for now.
 
@@ -12,10 +18,15 @@ Normal IPv4 addresses consist of a few numbers separated by dot: ``a.b.c.d``. Fo
 
 ## IP distribution
 
+<img src="/images/ip_blocks.png" alt="drawing" width="600"/>
+<center>IP blocks in typical villages</center>
+
 IPs are usually given to Internet Service Providers (ISP) in blocks: *this range belongs to ISP #1 in Country X*, and *this range belongs to ISP #2 in Country Y*.
 
 There are a few reserved IPs:
 
+<img src="/images/ip_loopback.png" alt="drawing" width="400"/>
+<center>Loopback IP: feel like home</center>
 1. Loopback IPs: 127.0.0.1 and alike. It literally directs you back to your own device.
 2. Private IPs: 192.168.1.1 and alike. These IPs are reserved for private networks, for example, created by WiFi routers.
 
@@ -38,7 +49,13 @@ When a smartphone, laptop or any other device connects to Internet, it gets the 
 
 ### Most common real-world practice
 
+<img src="/images/ip_mobile.png" alt="drawing" width="600"/>
+<center>Mobile phones & cellular networks</center>
+
 If you connect your phone to Internet Service Provider, most likely your IP is not unique.
+
+<img src="/images/ip_wifi2.png" alt="drawing" width="600"/>
+<center>WiFi Routers & Connected devices</center>
 
 If you connect your phone or laptop to WiFi router, most likely IP of your device is private (inside WiFi router network) and thus not unique, and the WiFi router has non-unique IP shared between Internet Service Provider users.
 
