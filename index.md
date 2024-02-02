@@ -46,7 +46,7 @@ If you use WiFi in public places, ensure that you follow best practices to avoid
 
 You must be careful sharing your personal data in the Internet.
 
- - [Personal data (TODO)](/personal.html)
+ - [Personal data](/personal.html)
 
 Beware of state institutions. They often post your personal data or personal data of your relatives.
 
