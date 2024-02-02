@@ -36,7 +36,7 @@ Be sure to use websites using HTTPS only. Always check that certificates are val
 
 WiFi-routers are used a lot nowadays, so they are normal targets for hackers. What can you do to ensure they are not hacked?
 
- - [WiFi Routers (TODO)](/routers.html)
+ - [WiFi Routers](/wifi_routers.html)
 
 If you use WiFi in public places, ensure that you follow best practices to avoid being traced and sniffed.
 
