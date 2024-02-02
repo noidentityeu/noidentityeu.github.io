@@ -1,12 +1,12 @@
 
 .article-typo {
   @extend .readable-typo;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .article-stress-typo {
   @extend .readable-typo;
-  font-size: 16px;
+  font-size: 18px;
   /* font-weight: 300; */
   font-style: italic;
 }
