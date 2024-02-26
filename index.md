@@ -40,7 +40,7 @@ WiFi-routers are used a lot nowadays, so they are normal targets for hackers. Wh
 
 If you use WiFi in public places, ensure that you follow best practices to avoid being traced and sniffed.
 
- - [Public places (TODO)](/public.html)
+ - [Public places](/public_places.html)
 
 ### Personal data
 
