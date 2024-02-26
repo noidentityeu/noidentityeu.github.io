@@ -40,7 +40,7 @@ WiFi-routers are used a lot nowadays, so they are normal targets for hackers. Wh
 
 If you use WiFi in public places, ensure that you follow best practices to avoid being traced and sniffed.
 
- - [Public places](/public_places.html)
+ - [Public places (In progress)](/public_places.html)
 
 ### Personal data
 
@@ -50,7 +50,7 @@ You must be careful sharing your personal data in the Internet.
 
 Beware of state institutions. They often post your personal data or personal data of your relatives.
 
- - [Personal data in state registers (TODO)](/personal_state.html)
+ - [Personal data in state registers (In progress)](/personal_state.html)
 
 ### Fake news, fake profiles and all that stuff
 
